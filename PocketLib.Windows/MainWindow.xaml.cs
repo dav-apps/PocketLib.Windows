@@ -16,6 +16,7 @@ namespace PocketLib.Windows
         {
             InitializeComponent();
 
+            AppWindow.SetIcon("Assets/favicon.ico");
             ExtendsContentIntoTitleBar = true;
             SetTitleBar(TitleBar);
         }
