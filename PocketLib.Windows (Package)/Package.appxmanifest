@@ -8,15 +8,15 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="cc8a4c3a-44a0-40c7-aa9c-456a26cd099a"
-    Publisher="CN=dav20"
+    Name="49427davSoftwareDevelopme.PcketLib"
+    Publisher="CN=34761CCA-A79E-46B8-A1BC-D17F44039844"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="cc8a4c3a-44a0-40c7-aa9c-456a26cd099a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>PocketLib</DisplayName>
-    <PublisherDisplayName>dav20</PublisherDisplayName>
+    <DisplayName>PᴏcketLib</DisplayName>
+    <PublisherDisplayName>dav Apps</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
 
@@ -35,8 +35,8 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="PocketLib"
-        Description="PocketLib"
+        DisplayName="PᴏcketLib"
+        Description="PocketLib is a simple and modern ebook reader."
         BackgroundColor="transparent"
         Square150x150Logo="Images\Square150x150Logo.png"
         Square44x44Logo="Images\Square44x44Logo.png">
