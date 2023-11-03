@@ -13,7 +13,7 @@
     <RelativePanel>
         <controls:WebView2
             x:Name="WebView"
-            Source="http://localhost:3001?windows=true"
+            Source="https://pocketlib.app?windows=true"
             RelativePanel.AlignTopWithPanel="True"
             RelativePanel.AlignLeftWithPanel="True"
             RelativePanel.AlignRightWithPanel="True"
